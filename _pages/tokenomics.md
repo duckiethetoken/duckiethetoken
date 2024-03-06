@@ -20,3 +20,5 @@ include_in_header: true
 **200 million $DUCKIE (20% of total token supply)** are allocated for liquidity. This will ensure healthy and sustainable price movement over the long term.
 
 #### There is no team token. We are a community-centric project.
+
+![Tokenomics](/assets/tokenomics.png)
