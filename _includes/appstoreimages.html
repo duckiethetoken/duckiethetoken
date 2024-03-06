@@ -6,7 +6,7 @@
 
 $(function() {
 
-    var apiURL = "https://tokenfi.com/";
+    var apiURL = "https://duckie.social";
 
     $.getJSON(apiURL, function(json) {
 
@@ -55,7 +55,8 @@ $(function() {
             }
 
             // Set App Store link using the iOS app ID if it is not set manually in _config.yml
-            //var $appStoreLink = $(".appStoreLink");
+            var $appStoreLink = "https://tokenfi.com";
+                //$(".appStoreLink");
             //if ($.trim($appStoreLink.attr('href')).length == 0) {
             //    $($appStoreLink).attr("href", appInfo.trackViewUrl);
             //}
