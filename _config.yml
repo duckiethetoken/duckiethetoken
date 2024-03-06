@@ -13,7 +13,7 @@ presskit_download_link                    : https://duckie.social               
 app_icon                                  : assets/logo.png                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : $DUCKIE The MEME Token                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Have you seen a duck reaching the moon?   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Welcome to $DUCKIE, the first MEME project to be launched on TokenFi and Blast L2. Join our movement and ride the duckie waves with us.
+app_description                           : Welcome to $DUCKIE, the first MEME project to be launched on TokenFi and Blast L2.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
