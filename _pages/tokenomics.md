@@ -5,13 +5,21 @@ include_in_header: true
 ---
 
 # Tokenomics
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+**1 billion $DUCKIE total supply on Blast L2. No further minting allowed.**
 
-<br>
+### `Public Sale`
+600 million $DUCKIE (60% of total token supply) to be on public sale on [TokenFi](https://tokenfi.com). All the tokens not sale on the public round are burned.
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+### `Marketing & Partnership`
+100 million $DUCKIE (10% of total token supply) are allocated for marketing & partnership. This will ensure successful public sale and token listing on major CEXes.
+
+### `Airdrop`
+100 million $DUCKIE (10% of total token supply) shall be disbursed via airdrop campaigns. By targeting TokenFi & Floki holders, our airdrop helps to onboard the best crypto holders and diamond hands.
+
+### `Liquidity`
+200 million $DUCKIE (20% of total token supply) are allocated for liquidity. This will ensure healthy and sustainable price movement over the long term.
+
+**There is no team token. We are a community-centric project.""
 
 #### What's New
 - Much far proper exotically precise unaccountable.
