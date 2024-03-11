@@ -8,7 +8,7 @@ include_in_header: true
 **1 billion $DUCKIE total supply on Blast L2. No further minting allowed.**
 
 ### `Public Sale`
-**600 million $DUCKIE (60% of total token supply)** to be on public sale on [TokenFi](https://tokenfi.com). All the tokens not sale on the public round are burned. Price at public sale: 1 $DUCKIE = 0.005 $USDT.
+**600 million $DUCKIE (60% of total token supply)** to be on public sale on [TokenFi](https://tokenfi.com). All the tokens not sold on the public round are burned. Price at public sale: 1 $DUCKIE = 0.005 $USDT.
 
 ### `Marketing & Partnership`
 **100 million $DUCKIE (10% of total token supply)** are allocated for marketing & partnership. This will ensure successful public sale and token listing on major CEXes.
