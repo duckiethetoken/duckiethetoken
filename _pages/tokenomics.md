@@ -6,6 +6,7 @@ include_in_header: true
 
 # Tokenomics
 **1 billion $DUCKIE total supply on Blast L2. No further minting allowed.**
+Contract Address: [0x1ba52A63ADF7e9425DDd85b378DdA25e3818E596](https://tl.tokenfi.com/tokens/erc20/0x1ba52A63ADF7e9425DDd85b378DdA25e3818E596?chain=81457).
 
 ### `Public Sale`
 **400 million $DUCKIE (40% of total token supply)** to be on public sale on [TokenFi](https://tokenfi.com).
