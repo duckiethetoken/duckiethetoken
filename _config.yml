@@ -37,16 +37,16 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Simply The Best
-    description                           : Duck is loved by everyone, being the favourite animal for kids and adults alike. Plus, we have simple tokenomics with no tax, no fee whatsoever. 
+  - title                                 : Duckie The Trend Setter
+    description                           : Started as one of the early projects launched on Blast L2, $DUCKIE is catching the trend of airdrop farming for Blast golds and points. 
     fontawesome_icon_name                 : gem
     
   - title                                 : Built For The Community
     description                           : At its core, $DUCKIE is all about community. Every decision, from tokenomics to marketing strategies, is reviewed carefully in the interest of its holders.
     fontawesome_icon_name                 : users
 
-  - title                                 : Duckie The Trend Setter
-    description                           : Started as one of the early projects launched on Blast L2, $DUCKIE is catching the trend of airdrop farming for Blast golds and points.
+  - title                                 : Simply The Best
+    description                           : Duck is loved by everyone, being the favourite animal for kids and adults alike. Plus, we have simple tokenomics with no tax, no fee whatsoever.
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
