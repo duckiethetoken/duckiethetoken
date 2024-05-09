@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/logo.png                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : $DUCKIE The MEME Token                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Have you seen a duck reaching the moon?   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Welcome to $DUCKIE, the community token of Blast L2.
+app_description                           : Welcome to $DUCKIE, the social MEME and community token of Blast L2.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
