@@ -9,11 +9,11 @@ include_in_header: true
 
 Contract Address: [0x1ba52A63ADF7e9425DDd85b378DdA25e3818E596](https://blastscan.io/token/0x1ba52A63ADF7e9425DDd85b378DdA25e3818E596).
 
-Contract ownership for $DUCKIE has been renounced by [this transaction](https://blastscan.io/tx/0x4db2f6f2716b769749424e18208183f33b6ed56fe15e35697c90b24fa827d4fa).
+Contract ownership for $DUCKIE has been renounced in [this transaction](https://blastscan.io/tx/0x4db2f6f2716b769749424e18208183f33b6ed56fe15e35697c90b24fa827d4fa).
 
 ### `Public Sale`
 **400 million $DUCKIE (40% of total token supply)** are allocated for public sale.
-- The first batch of public sale were conducted on [TokenFi](https://lp.tokenfi.com/en//0x16F8721723093C8DCCB213E1861efa0F525bB8a7?chain=81457) at price of 1 $DUCKIE = 0.005 $USDT.
+- The first batch of public sale were conducted on [TokenFi](https://lp.tokenfi.com/en//0x16F8721723093C8DCCB213E1861efa0F525bB8a7?chain=81457) at the price of 1 $DUCKIE = 0.005 $USDT.
 - The remaining portion of this allocation are later sold via market orders.
 
 ### `Marketing & Partnership`
