@@ -17,13 +17,13 @@ Contract ownership for $DUCKIE has been renounced by [this transaction](https://
 - The remaining portion of this allocation are later sold via market orders.
 
 ### `Marketing & Partnership`
-**100 million $DUCKIE (10% of total token supply)** are allocated for marketing & partnership. This will ensure successful public sale and token listing on major CEXes.
+**100 million $DUCKIE (10% of total token supply)** are allocated for marketing & partnership. This ensures successful public sale and future token listing on major CEXes.
 
 ### `Airdrop`
-**100 million $DUCKIE (10% of total token supply)** shall be disbursed to the community via airdrop campaigns. By targeting early Blast users, our airdrop helps to onboard the best crypto holders and diamond hands.
+**100 million $DUCKIE (10% of total token supply)** are disbursed to the community via airdrop campaigns. By targeting early Blast users, our airdrop helps to onboard the best crypto holders and diamond hands.
 
 ### `Liquidity`
-**400 million $DUCKIE (40% of total token supply)** are allocated for liquidity, both on DEXs and CEXs. This will ensure healthy and sustainable price movement over the long term.
+**400 million $DUCKIE (40% of total token supply)** are allocated for liquidity, both on DEXs and CEXs. This ensures healthy and sustainable price movement over the long term.
 
 #### There is no team token. We are a community-centric project.
 
